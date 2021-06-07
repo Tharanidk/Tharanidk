@@ -4,3 +4,4 @@
 - :sunglasses: Currently Learning React.js
 - 📫 Reach me: tharani.dayadhi@gmail.com
 
+![Tharani's github stats](https://github-readme-stats.vercel.app/api?username=tharanidk)
