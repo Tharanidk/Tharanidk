@@ -7,4 +7,5 @@
 ![Tharani's github stats](https://github-readme-stats.vercel.app/api?username=tharanidk)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharanidk)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharanidk&theme=dark)
