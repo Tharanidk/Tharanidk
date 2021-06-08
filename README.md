@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tharani Karunathilaka</h1>
 
+- A fourth year undergraduate of faculty of IT, University of Moratuwa.
+- Passionate in programming
+- I put my heart , mind and soul into even my smallest acts and that is my secret
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharanidk&label=Profile%20views&color=0e75b6&style=flat" alt="tharanidk" /> </p>
 
 <h3 align="left">Connect with me:</h3>
