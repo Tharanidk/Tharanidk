@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharani Karunathilaka</h1>
 
-- A fourth year undergraduate of faculty of IT, University of Moratuwa.
+- Software Engineer
 - Passionate in programming
 - I put my heart , mind and soul into even my smallest acts and that is my secret
 
