@@ -25,6 +25,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharanidk&" alt="tharanidk" /></p>
 
 <h3 align="left">Hackomberfest 2022:</h3>
-<p><img align="center" [![@tharanidk's Holopin board](https://holopin.me/tharanidk)](https://holopin.io/@tharanidk) /></p>
+[![@tharanidk's Holopin board](https://holopin.me/tharanidk)](https://holopin.io/@tharanidk)
 
 
