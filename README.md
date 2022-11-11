@@ -23,3 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharanidk&show_icons=true&locale=en" alt="tharanidk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharanidk&" alt="tharanidk" /></p>
+
+<h3 align="left">Hackomberfest 2022:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharanidk&" alt="tharanidk" /></p>
+
+[![@tharanidk's Holopin board](https://holopin.me/tharanidk)](https://holopin.io/@tharanidk)
